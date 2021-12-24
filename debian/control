@@ -1,0 +1,23 @@
+Source: ping-tools
+Section: utils
+Priority: optional
+Maintainer: Sven Wick <sven.wick@gmx.de>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.6.0
+Homepage: https://github.com/vaporup/ping-tools
+
+Package: ping-tools
+Architecture: all
+Depends: ${misc:Depends}
+Description: ping a specific TCP port
+ .
+ Avoids netcat while loops
+ and all the tools (like hping3)
+ where you have to give some known options first
+ .
+ Generic command is ping-tcp but
+ checkout the included convenient tools like
+ .
+ * ping-rdp
+ * ping-smb
+ * ...

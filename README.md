@@ -1,11 +1,2 @@
-<p align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/license-gpl--3-brightgreen.svg?style=flat-square"/>
-  <img src="https://img.shields.io/badge/status-stable-ff69b4.svg?style=flat-square"/>
-  <a href="https://codeberg.org/vaporup/CISS">
-   <img src="https://img.shields.io/badge/supports-CISS-blueviolet.svg?style=flat-square"/>
-  </a>
-  <img src="https://img.shields.io/badge/implementation-bash-red.svg?style=flat-square"/>
-</p>
-
-Multi-call Shellscript to ping a specific TCP port.
+Moved  : https://codeberg.org/vaporup/ping-tools
+Reason : https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/
